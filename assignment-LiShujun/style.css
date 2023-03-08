@@ -1,0 +1,31 @@
+
+body {
+    background:radial-gradient(red,pink);
+    font-family: Alegreya Sans, sans-serif;
+  }
+
+  h1 {
+    color: black;
+    font-size: 30px;
+}
+
+h2.standout {
+    color: black
+}
+
+.nav_header{
+    display:inline;
+}
+
+p[align=left]
+{
+    color:rgb(16, 16, 16)
+}
+
+.email{
+    display: none;
+}
+
+
+
+ 

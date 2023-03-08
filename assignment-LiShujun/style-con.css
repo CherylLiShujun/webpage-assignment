@@ -1,0 +1,49 @@
+h1{
+    background-color: rgb(244, 189, 189);
+
+}
+
+.image1{
+    border-radius: 50%;
+}
+
+.image1:hover{
+    transform: translate(50px,50px);
+}
+
+body {
+    background: rgb(248, 169, 153);
+    font-family: Alegreya Sans, sans-serif;
+  }
+
+.schedule {
+    font-family: 'Courier New', Courier, monospace;
+    }
+  
+
+table {
+    background:radial-gradient(tomato,pink)
+}
+
+caption{
+    font-family:sans-serif
+}
+
+.column {
+    font-family:Fantasy;
+    font-size: 18px;
+}
+
+li.standout {
+    color: rgb(75, 44, 29);
+}
+
+h3{
+    font-family:Fantasy;
+    font-size: 22px;
+}
+
+
+li {
+    background:radial-gradient(tomato,pink)
+}

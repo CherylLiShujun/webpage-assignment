@@ -1,0 +1,15 @@
+h1{
+  background-color: rgba(238, 205, 115, 0.471);
+}
+
+body {
+  background: beige
+}
+
+article {
+  background-color: blanchedalmond;
+  border: 10px solid sandybrown;
+  padding: 1px;
+  margin: auto pink;
+}
+
